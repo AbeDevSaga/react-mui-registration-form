@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import RegistrationForm from './components/registration_from';
 
 function App() {
   return (
     <div>
-      <header className="App-header"> </header>
+      <RegistrationForm/>
     </div>
   );
 }
